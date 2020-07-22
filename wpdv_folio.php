@@ -15,7 +15,7 @@ function create_wpdv_folios() {
     register_post_type( 'wpdv-folio', /* (http://codex.wordpress.org/Function_Reference/register_post_type) */
 		// let's now add all the options for this post type
 		array( 'labels' => array(
-			'name' => 'portfolio', 'wpdv-folio', /* This is the Title of the Group */
+			'name' => 'Portfolio', 'wpdv-folio', /* This is the Title of the Group */
 			'singular_name' => 'folio', 'wpdv-folio', /* This is the individual type */
 			'all_items' => 'All portfolios', 'wpdv-folio', /* the all items menu item */
 			'add_new' => 'Add New Folio', 'wpdv-folio', /* The add new menu item */
