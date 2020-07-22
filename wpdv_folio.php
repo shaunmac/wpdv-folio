@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Money Free portfolio
+Plugin Name: WPDV Folio
 Plugin URI: https://wordpress-developer.com.au
 Description: Declares a plugin that will create a custom post type displaying portfolio.
 Version: 1.0.2
