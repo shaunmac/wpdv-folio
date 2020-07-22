@@ -1,12 +1,12 @@
 {
-  "name": "shaunmac/mfp-policies",
-  "description": "Woocommerce payment gateway",
+  "name": "shaunmac/wpdv-folio",
+  "description": "Folio Custom Post Types",
   "keywords": ["wordpress", "plugin"],
-  "homepage": "https://github.com/shaunmac/mfp-policies",
+  "homepage": "https://github.com/shaunmac/wpdv-folio",
   "authors": [
     {
       "name": "MFP Policies",
-      "homepage": "https://www.moneyfreeparty.org.nz/"
+      "homepage": "https://www.wordpress-developer.com.au"
     }
   ],
   "type": "wordpress-plugin",
