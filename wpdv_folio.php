@@ -3,7 +3,7 @@
 Plugin Name: WPDV Folio
 Plugin URI: https://wordpress-developer.com.au
 Description: Declares a plugin that will create a custom post type displaying portfolio.
-Version: 1.0.2
+Version: 1.0.4
 Author: Shaun MacDougall
 Author URI: http://shaunmacdougall.com
 License: GPLv2
